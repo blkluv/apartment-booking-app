@@ -30,7 +30,7 @@ const LabelsSection = () => {
     return (
         <Section>
             <div className='left'>
-                <p> +38 032 297 50 20 </p><br />
+                <p> +1 404 889 5545 </p><br />
                 <p> 8 Lystopadovoho Chynu,Lviv </p>
             </div>
             <div className='right'>

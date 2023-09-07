@@ -13,11 +13,11 @@ const Contact = () => {
 
   return (
     <Wrapper id='contact'>
-      <a className='number' href='tel:+38 032 297 50 20'>
-        +38 032 297 50 20
+      <a className='number' href='tel:+1 404 889 5545'>
+        +1 404 889 5545
       </a>
       <span className='location'>
-        8 Lystopadovoho <br /> Chynu,Lviv
+        Worldwide <br /> 
       </span>
       <div className='chairImg'>
         <picture loading='lazy'>

@@ -18,9 +18,8 @@ const Apartments = () => {
         </h1>
         <Polygon2 />
         <p className='desc'>
-          All room decoration was made with ecological certified and safe
-          materials. The luxurious hotel in the most beautiful European city
-          with an exclusive restaurant, conference-hall, and art-bar.
+          Arvrtise Apartments focuses on offering eco-friendly and certified 
+          room and apartment accommodations with in-house AI powered marketing. 
         </p>
         <span className='qty'>{`${apartments.length} Apartments`}</span>
       </div>

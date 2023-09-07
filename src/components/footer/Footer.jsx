@@ -17,7 +17,7 @@ const Footer = () => {
         <p>
           &#169; {new Date().getFullYear()}
           {` All rights reserved. `}
-          <b>WWApartments</b>
+          <b>Apartments</b>
         </p>
       </div>
       <div className='footer-section'>
@@ -45,12 +45,12 @@ const Footer = () => {
         </p>
         <ul>
           <li>
-            <a href='tel:+38 032 297 50 20' aria-label='phone number'>
+            <a href='tel:+1 404 889 5545' aria-label='phone number'>
               <CiPhone />
             </a>
           </li>
           <li>
-            <a href='mailto:' aria-label='email'>
+          <a href='mailto:info@arvrtise.com' aria-label='email'>Email Us</a>
               {' '}
               <CiMail />
             </a>

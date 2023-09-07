@@ -48,10 +48,9 @@ const About = () => {
       </div>
       <div className='desc'>
         <p>
-          The five-star Bank Hotel was reopened to visitors in 2016. The
-          building was renovated and modernized to meet the expectations of the
-          most demanding guests. We offer luxurious rooms, numerous facilities,
-          and exceptional service.{' '}
+          No one will see your listing with out creating an 
+          Arvrtising apartments and rooms campaign with modern 
+          technology.
         </p>
       </div>
       <div className='label-container'>

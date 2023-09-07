@@ -64,8 +64,8 @@ const Sidebar = () => {
         )}
       </div>
       <div className='bottom'>
-        <a href='tel:+38 032 297 50 20' aria-label='phone number'>
-          +38 032 297 50 20
+        <a href='tel:+1 404 889 5545' aria-label='phone number'>
+          +1 404 889 5545
         </a>
         <p>
           8 Lystopadovoho <br /> Chynu, Lviv

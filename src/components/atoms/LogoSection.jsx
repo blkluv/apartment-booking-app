@@ -24,7 +24,7 @@ const LogoSection = () => {
     <LogoWrapper>
       <Link to='/#'>
         <span>
-          WWA
+          A
           <span className='secondary'>partments</span>{' '}
         </span>
       </Link>

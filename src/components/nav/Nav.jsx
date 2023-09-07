@@ -41,8 +41,8 @@ const Nav = () => {
             </button>
           )}
         </div>
-        <a className='tel' href='tel:+38 032 297 50 20'>
-          +38 032 297 50 20
+        <a className='tel' href='tel:+1 404 889 5545'>
+          +1 404 889 5545
         </a>
         <button
           type='button'

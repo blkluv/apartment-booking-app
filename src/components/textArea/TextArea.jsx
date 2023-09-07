@@ -9,18 +9,17 @@ const TextArea = () => {
     <Wrapper>
       <div className='main-info'>
         <span className='h1'>
-          WW<span>Apartments</span>
+          A<span>partments</span>
         </span>
-        <p>ROOMS // RESTAURANT // CONGRESS HALL // WINE BAR</p>
+        <p>ARVRTISE YOUR APARTMENT & ROOMS</p>
       </div>
       <div className='since-section'>
         <div>
           <Star />
-          <span>Since 2020</span>
+          <span>Since 2023</span>
         </div>
         <p>
-          The luxurious hotel in the most beautiful European city with an
-          exclusive restaurant, conference-hall, and art-bar.
+           No one will see your listing if you don't Arvrtise it.
         </p>
       </div>
       <div className='button-wrapper'>

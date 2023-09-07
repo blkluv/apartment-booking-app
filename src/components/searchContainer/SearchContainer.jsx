@@ -7,12 +7,12 @@ const SearchContainer = () => {
   const { adults, children, price, min_price, max_price, rooms } = filters;
   return (
     <Wrapper className='search-container'>
-      <p className='list-search-title'>Znajdź odpowieni apartament:</p>
+      <p className='list-search-title'>Find the appropriate apartment:</p>
       <div className='list-search-item'>
-        <label className='options'>Opcje:</label>
+        <label className='options'>Options:</label>
         <div className='list-search-option'>
           <span className='list-search-text'>
-            Max. cena<small>(za noc:):</small> <br />
+            Max. price<small>(per night:):</small> <br />
             <span>{price} zł</span>
           </span>
           <input
@@ -26,7 +26,7 @@ const SearchContainer = () => {
           />
         </div>
         <div className='list-search-option'>
-          <span className='list-search-text'>Dorośli:</span>
+          <span className='list-search-text'>Adults:</span>
           <input
             type='number'
             name='adults'
@@ -37,7 +37,7 @@ const SearchContainer = () => {
           />
         </div>
         <div className='list-search-option'>
-          <span className='list-search-text'>Dzieci:</span>
+          <span className='list-search-text'>Children:</span>
           <input
             type='number'
             name='children'
@@ -48,7 +48,7 @@ const SearchContainer = () => {
           />
         </div>
         <div className='list-search-option'>
-          <span className='list-search-text'>Pokoje:</span>
+          <span className='list-search-text'>Rooms:</span>
           <input
             type='number'
             name='rooms'
@@ -64,7 +64,7 @@ const SearchContainer = () => {
         type='button'
         onClick={clearFilters}
       >
-        Wyczyść
+        Clear
       </button>
     </Wrapper>
   );
