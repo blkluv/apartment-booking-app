@@ -50,8 +50,8 @@ const Footer = () => {
             </a>
           </li>
           <li>
-          <a href='mailto:info@arvrtise.com' aria-label='email'>Email Us</a>
-              {' '}
+            <a href='mailto:info@arvrtise.com' aria-label='email'>
+              Email Us{' '}
               <CiMail />
             </a>
           </li>
